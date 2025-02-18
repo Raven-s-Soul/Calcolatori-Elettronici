@@ -47,7 +47,7 @@
 <details> 
 <summary>ALU</summary><br>
     
-> `n` bit di controllo = $2^n -1$ operazioni, poichè esiste in non fare nulla.
+> `n` bit di controllo = $`2^n -1`$ operazioni, poichè esiste in non fare nulla.
 </details>
 <details> 
 <summary>Shifter</summary><br>
