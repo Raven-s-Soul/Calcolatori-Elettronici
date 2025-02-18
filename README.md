@@ -9,5 +9,8 @@
 > - [Microarchitetture cpu](/Microarchitetture.md)
 > - [Assembly](/Assembly.md)
 
+>[!TIP]
+>[Esercizzi su logisim](/Logisim.md)
+
 ### [Homeworks](/Homeworks.md)
 ### [Esonero logisim](/EsoneroLogisim.md)
