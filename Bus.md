@@ -9,6 +9,9 @@
 
 [Diagramma di Temporizzazione](./excalidaws/Diagramma_di_Temporizzazione.excalidraw)
 
+![Diagramma di Temporizzazione](imgs/Diagramma_di_Temporizzazione.svg)
+
+
 <details> 
 <summary>Domande:</summary><br>
 
