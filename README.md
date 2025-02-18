@@ -70,3 +70,5 @@ OCC:
 	B: .ASCII "Occorrenza %d\n"
 .SECT .BSS
 ```
+
+### [Esonero logisim](/EsoneroLogisim.md)
