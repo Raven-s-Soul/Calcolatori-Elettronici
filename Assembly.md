@@ -53,6 +53,7 @@ Metti le macro prima di .SECT .TEXT
 <summary>Jumps (JMP)</summary>
   
 > Solo i jmp semplici
+
 ![Jumps](/imgs/5-min.png)
 </details><br>
 <details>
